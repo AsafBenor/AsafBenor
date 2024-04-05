@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asaf Benor</h1>
-<h3 align="center">B.Sc. Computer Engineering undergraduate student at Bar-Ilan University, GPA:84. Looking for a software development opportunity.</h3>
+<h3 align="center">B.Sc. Computer Engineering undergraduate student at Bar-Ilan University, GPA:85. Looking for a software development opportunity.</h3>
 - 📫 How to reach me **asafbenor3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
